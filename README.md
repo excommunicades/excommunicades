@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniil Stepanenko</h1>
 <h3 align="center">Experienced Python Backend Developer</h3>
-<img align="right" alt="Animation" width="600" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F24.media.tumblr.com%2F03c9505cfe9473d13619cd18a98d90e5%2Ftumblr_n3xetmlDS41qav3uso1_500.gif&f=1&nofb=1&ipt=73683c46ef4e80d0eecaa9d575d98f1df52d90d6efb6cf0134c81dde8d220634&ipo=images"> 
+<img align="right" alt="Animation" width="300" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F24.media.tumblr.com%2F03c9505cfe9473d13619cd18a98d90e5%2Ftumblr_n3xetmlDS41qav3uso1_500.gif&f=1&nofb=1&ipt=73683c46ef4e80d0eecaa9d575d98f1df52d90d6efb6cf0134c81dde8d220634&ipo=images"> 
 
 - 🧐 **I’m currently learning** ```FastAPI, Django, Django Rest Framework```
 
