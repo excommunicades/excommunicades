@@ -18,6 +18,8 @@
 
 - <img align="center" width="150px" alt="Animation" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmaxmautner.com%2Fpublic%2Fimages%2Fdjango.gif&f=1&nofb=1&ipt=4add1f444890996a907f940a8bade5cc41ac4fdff7ad740a3e0025b46905c966&ipo=images"> **- Web framework for Python**
 
+- <img align="center" width="150px" alt="Animation" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcms-assets.tutsplus.com%2Fuploads%2Fusers%2F45%2Fposts%2F19786%2Fpreview_image%2Fdjango-rest-framework-wide-retina-preview.gif&f=1&nofb=1&ipt=b1f027bb3200f86c0910379f0ebcee4d065e1e3085b13fc3a4b08570d0799a2e&ipo=images"> **- Powerful and flexible toolkit for building RESTful APIs on top of Django**
+
 - <img align="center" width="150px" alt="Animation" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.simplilearn.com%2Fice9%2Ffree_resources_article_thumb%2FFastAPI_b.jpg&f=1&nofb=1&ipt=c0843b80e962cfa69884cb7e8455921cc802ea13b16caf4b92a42908fd3bc38f&ipo=images"> **- Web framework for Python**
 <br>ㅤ<br>
 
