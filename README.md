@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniil Stepanenko</h1>
-<h3 align="center">Experienced Developer in Python, Django, and Django REST Framework (DRF), focusing on building robust back-end architectures. I have experience deploying applications on AWS (EC2, S3) with IAM configuration, containerizing environments with Docker, and managing Linux servers. I automate background tasks with Celery, Beat, and Redis and write asynchronous code using asyncio for performance optimization. I also integrate external services like Google Maps API, SendGrid, and Mailgun. My workflow includes effective use of GitHub and GitLab for version control and team collaboration, ensuring clean, maintainable code. I am also familiar with Agile methodologies, particularly Scrum & Kanban, ensuring efficient project management and team collaboration throughout the development process.</h3>
-<img align="right" alt="Animation" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F24.media.tumblr.com%2F03c9505cfe9473d13619cd18a98d90e5%2Ftumblr_n3xetmlDS41qav3uso1_500.gif&f=1&nofb=1&ipt=73683c46ef4e80d0eecaa9d575d98f1df52d90d6efb6cf0134c81dde8d220634&ipo=images"> 
+<h3 align="center">Experienced Developer in Python, Django, and Django REST Framework (DRF), focusing on building robust back-end architectures.</h3>
+<img align="right" alt="Animation" width="800" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F24.media.tumblr.com%2F03c9505cfe9473d13619cd18a98d90e5%2Ftumblr_n3xetmlDS41qav3uso1_500.gif&f=1&nofb=1&ipt=73683c46ef4e80d0eecaa9d575d98f1df52d90d6efb6cf0134c81dde8d220634&ipo=images"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=excommunicades&label=Profile%20views&color=0e75b6&style=flat" alt="excommunicades" /> </p>
 
