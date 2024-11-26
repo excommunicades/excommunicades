@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniil Stepanenko</h1>
 <h3 align="center">Experienced Developer in Python, Django, and Django REST Framework (DRF), focusing on building robust back-end architectures.</h3>
-<img align="right" alt="Animation" width="800" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F24.media.tumblr.com%2F03c9505cfe9473d13619cd18a98d90e5%2Ftumblr_n3xetmlDS41qav3uso1_500.gif&f=1&nofb=1&ipt=73683c46ef4e80d0eecaa9d575d98f1df52d90d6efb6cf0134c81dde8d220634&ipo=images"> 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=excommunicades&label=Profile%20views&color=0e75b6&style=flat" alt="excommunicades" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=excommunicades" alt="excommunicades" /></a> </p>
+<img align="right" alt="Animation" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F24.media.tumblr.com%2F03c9505cfe9473d13619cd18a98d90e5%2Ftumblr_n3xetmlDS41qav3uso1_500.gif&f=1&nofb=1&ipt=73683c46ef4e80d0eecaa9d575d98f1df52d90d6efb6cf0134c81dde8d220634&ipo=images"> 
 
 - 🔭 I’m currently working on [BlogChat](https://github.com/excommunicades/DjangoBlogChat)
 
