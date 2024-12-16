@@ -7,7 +7,7 @@
 <br>ㅤ<br>
 💡 ```Essential qualities: strong problem-solving abilities, effective communication, adaptability to change, collaboration, attention to detail, initiative, and a results-oriented mindset.```
 <br>ㅤ<br>
-💡 Skills: ```Technical: Python (Django, DRF), HTML, CSS, JavaScript, PostgreSQL, AWS (EC2, S3, VPC, IAM, etc.), Docker, docker-compose, Redis, Celery, Git, GitHub, GitLab Other: Jira, Agile, Scrum, Kanban Languages: English (B2), Ukraine (native), Russian (bilingual proficiency)```
+💡 Skills: ```Technical: Python (Django, DRF, FastAPI), HTML, CSS, JavaScript, PostgreSQL, AWS (EC2, S3, VPC, IAM, etc.), Docker, docker-compose, Redis, Celery, RabbtiMQ, Kafka, Git, GitHub, GitLab Other: Jira, Agile, Scrum, Kanban Languages: English (B2), Ukraine (native), Russian (bilingual proficiency)```
 <br>ㅤ<br>
 💡 ```All of my projects you can find here:``` [*github repos*](https://github.com/excommunicades?tab=repositories)
 <br>ㅤ<br>
