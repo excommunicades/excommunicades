@@ -2,7 +2,7 @@
 <br>ㅤ<br>
 <h1 align="center" height="300px">Welcome to my GitHub Profile 🧛🏻</h1>
 <br>ㅤ<br>
-
+ 
 💡 ```Professional objective: I seek to be part of a forward-thinking team where I can expand my expertise, take on complex technical challenges, and contribute to impactful, large-scale projects.```
 <br>ㅤ<br>
 💡 ```Essential qualities: strong problem-solving abilities, effective communication, adaptability to change, collaboration, attention to detail, initiative, and a results-oriented mindset.```
