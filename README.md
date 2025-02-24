@@ -5,7 +5,7 @@
  
 💡 ```Professional objective: I seek to be part of a forward-thinking team where I can expand my expertise, take on complex technical challenges, and contribute to impactful, large-scale projects.```
 <br>ㅤ<br>
-💡 ```Essential qualities: strong problem-solving abilities, effective communication, adaptability to change, collaboration, attention to detail, initiative, and a results-oriented mindset.```
+💡 ```Essential qualities: Effective communication, adaptability to change, collaboration, attention to detail, initiative, and a results-oriented mindset.```
 <br>ㅤ<br>
 💡 Skills: ```Technical: Python (Django, DRF, FastAPI), HTML, CSS, JavaScript, PostgreSQL, AWS (EC2, S3, VPC, IAM, etc.), Docker, docker-compose, Redis, Celery, RabbtiMQ, Kafka, Git, GitHub, GitLab Other: Jira, Agile, Scrum, Kanban Languages: English (B2), Ukraine (native), Russian (bilingual proficiency)```
 <br>ㅤ<br>
