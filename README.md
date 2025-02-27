@@ -11,7 +11,7 @@
 <br>ㅤ<br>
 💡 ```All of my projects you can find here:``` [*github repos*](https://github.com/excommunicades?tab=repositories)
 <br>ㅤ<br>
-💡 ```My experiences:``` [*CV*](https://drive.google.com/file/d/1yA-mlxJBpLMia_-88seJFIhD49d1Wxgv/view?usp=sharing)
+💡 ```My experiences:``` [*CV*](https://drive.google.com/file/d/1GYQuJUqIilXVbz6FJBAtqiqCoTqpZqIm/view?usp=sharing)
 <br>ㅤ<br>
 
 ### 🧐 **I’m currently learning**:
