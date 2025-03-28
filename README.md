@@ -1,6 +1,6 @@
 <img align="right" alt="Animation" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F90236635%2F232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif&f=1&nofb=1&ipt=da36dbd1ba6a13924326af9ff65e9d780ef09fd5b525f40f64de854df4e086c5&ipo=images">
 <br>ㅤ<br>
-<h1 align="center" height="300px">Welcome to my GitHub Profile 🧛🏻</h1>
+<h1 align="center" height="300px">Welcome to my GitHub Profile 🧛🏻</h1> 
 
 <br>ㅤ<br>
 
