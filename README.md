@@ -10,7 +10,7 @@
 <br>ㅤ<br>
 💡 Skills: ```Technical: Python (Django, DRF, FastAPI), HTML, CSS, JavaScript, PostgreSQL, AWS (EC2, S3, VPC, IAM, etc.), Docker, docker-compose, Redis, Celery, RabbtiMQ, Kafka, Git, GitHub, GitLab Other: Jira, Agile, Scrum, Kanban Languages: English (B2), Ukraine (native), Russian (bilingual proficiency)```
 <br>ㅤ<br>
-💡 ```All of my projects you can find here:``` [*github repos*](https://github.com/excommunicades?tab=repositories)
+💡 ```All of my projects you can find here:``` [*github repos*](https://github.com/excommunicades?tab=repositories) 
 <br>ㅤ<br>
 💡 ```My experiences:``` [*CV*](https://drive.google.com/file/d/1GYQuJUqIilXVbz6FJBAtqiqCoTqpZqIm/view?usp=sharing)
 <br>ㅤ<br>
