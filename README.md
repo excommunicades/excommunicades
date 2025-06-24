@@ -17,7 +17,7 @@
 
 ### 🧐 **I’m currently learning**:
 
-- <img align="center" width="150px" alt="Animation" src="https://techcrunch.com/wp-content/uploads/2021/12/aws-logo-glitch.gif?w=1024"> **- Cloud platform for hosting and deploying applications**
+- <img align="center" width="150px" alt="Animation" src="https://techcrunch.com/wp-content/uploads/2021/12/aws-logo-glitch.gif?w=1024"> **- Provides a wide range of cloud solutions**
 
 - <img align="center" width="150px" alt="Animation" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmaxmautner.com%2Fpublic%2Fimages%2Fdjango.gif&f=1&nofb=1&ipt=4add1f444890996a907f940a8bade5cc41ac4fdff7ad740a3e0025b46905c966&ipo=images"> **- Web framework for Python**
 
